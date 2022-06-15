@@ -4,3 +4,4 @@
 [원본 플레이](http://wayou.github.io/t-rex-runner/)
 # 플레이하기
 플레이(준비중)
+알아서 프레이하세요
